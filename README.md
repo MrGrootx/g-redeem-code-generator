@@ -30,6 +30,7 @@ This is an advanced redeem code generator script. You can create redeem codes fo
  * Escrow - https://groot-development.tebex.io/package/6422519
  * Unlocked - https://groot-development.tebex.io/package/6422554
  * Fivem Topic - https://forum.cfx.re/t/esx-qbcore-advance-redeem-code-generator-direct-to-user-delete-edit-enable-disable/5260685
+ * Discord Support - https://discord.gg/Nm5FSxK2gv
 
 
 ![g-redeem-code](https://github.com/user-attachments/assets/476c8558-a237-4c10-8394-02d29ad008d9)
